@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
- <jnlp spec="6.0+" codebase="https://viajants.github.io/jtme-web/" href="https://viajants.github.io/jtme-web/JTME_Web_229">
+ <jnlp spec="6.0+" codebase="https://viajants.github.io/jtme-web/" href="https://viajants.github.io/jtme-web/JTME_Web_229.jnlp">
  	<information>
 		<title>JTME</title>
 		<vendor>OTJTMESoft</vendor>
